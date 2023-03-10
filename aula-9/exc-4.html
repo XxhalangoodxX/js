@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+   <script>
+    var vetor = new Array (11)
+
+    for(var i = 1; i < vetor.length; i++){
+         vetor[i] = new Array (prompt("Digite "+ i +" números" ))
+         vetor[1] = parseInt(vetor[i])
+    if(vetor[i]%2 === 1){
+    document.write(vetor[i]+'Impar'+'<br>')
+    }else{document.write(vetor[i]+'par'+'<br>')}
+
+   
+        }
+   </script>
+    
+  </body>
+</html>
