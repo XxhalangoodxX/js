@@ -1,0 +1,29 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+    }
+#topo{width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color:red; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/}
+   #j{width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color: orange; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/}
+    #h{width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color: yellow; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/}
+    #g{width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color: green; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/}
+   #f{width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color: blue; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/}
+     #d{ width: 1920px; /*Largura*/
+    height: 50px;/*altura*/
+    background-color: blueviolet; /* cor de fundo*/
+    margin: auto;/*centralizar a DIV*/
+}
