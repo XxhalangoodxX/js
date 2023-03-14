@@ -16,13 +16,13 @@
     width: 260px; 
     height: 60px;
     background-color:rgb(189, 67, 10); 
-    float: right;
+    float: left;
 }
 #menu{
     width: 700px; 
     height: 60px;
     background-color:rgb(12, 12, 102); 
-    float: left;
+    float: right;
 }
 #banner{
     width: 960px; 
@@ -36,7 +36,7 @@
     background-color:rgb(12, 12, 102); 
     margin: auto;
 }
-#container{
+#cont{
     width: 960px;
     height: 500px;
     margin: auto;
@@ -58,4 +58,8 @@
     height: 50px;
     background-color: black;
     margin: auto;
+}
+h1{
+    color:orange;
+    font-size: 45px;
 }
