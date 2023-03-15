@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#topo{
+    width: 960px; 
+    height: 50px; 
+    background-color: pink;
+    margin: auto;
+}
+#topo2{
+    width: 960px; 
+    height: 60px;
+    margin: auto;
+}
+#menu{
+    width: 890px; 
+    height: 60px;
+    float: right;
+    text-align: center;
+    word-spacing: 20px;   
+}
+#menu a{
+     text-decoration: none;
+     font-size: 45px;
+    color: red; ; 
+}
+#menu a:hover{
+    color:pink
+}
+#banner{
+    width: 960px; 
+    height: 200px;
+    margin: auto;
+}
+#banner img{
+    width: 100%;
+}
+#cont{
+    width: 960px;
+    height: 200px;
+    margin: auto;
+}
+#esquerda{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+#direita{
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+#rodape{
+    width: 960px;
+    height: 50px;
+    background-color: purple;
+    margin: auto;
+}
