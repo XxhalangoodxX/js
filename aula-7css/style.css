@@ -56,3 +56,13 @@ body{
     font-family: 'Chewy', cursive;
     color: white;
 }
+.text3{
+    color: aliceblue;
+}
+.buy{
+    padding-top: 100px;
+}
+.img3{
+    width: 100%;
+    border-radius: 10px;
+}
